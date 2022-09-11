@@ -1,0 +1,64 @@
+.hist-1{
+    height: 300px;
+    width: 100%;
+    background-color: aqua;
+    position: relative;
+}
+img{
+    position: absolute;
+    right: 0;
+    top:0;
+    height: 230px;
+    width: 230px;
+    margin-right: 47px;
+    margin-top: 32px;
+}
+
+.text{
+    border: 2px solid black;
+    position: absolute;
+    left: 0;
+    top:0;
+    height: 230px;
+    width: 230px;
+    margin-left: 47px;
+    margin-top: 32px;
+}
+
+.hist-2{
+    height: 300px;
+    width: 100%;
+    background-color:bisque ;
+}
+
+.hist-3{
+    height: 300px;
+    width: 100%;
+    background-color:coral ;
+}
+
+/* @font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/opensans-light.woff2') format('woff2'),
+      url('fonts/opensans-light.woff') format('woff');
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  @font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/opensans-regular.woff2') format('woff2'),
+      url('fonts/opensans-regular.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/opensans-bold.woff2') format('woff2'),
+      url('fonts/opensans-bold.woff') format('woff');
+    font-style: normal;
+    font-weight: 700;
+  }
+
+   */
